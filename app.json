@@ -1,9 +1,9 @@
 {
-  "name": "SPACE-MD",
-  "description": "SPACE-MD, your day to day assistant!",
+  "name": "I.T-D3F4ULT",
+  "description": "I.T-D3F4ULT, your day to day assistant!",
   "logo": "https://files.catbox.moe/ia1mgm.jpg",
   "keywords": [],
-  "repository": "https://github.com/Dark-Xploit/SPACE-MD",
+  "repository": "https://github.com/Dark-Xploit/I.T-D3F4ULT",
   "stack": "container",
   "addons": [
     {
@@ -15,13 +15,13 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
+    "description": "Must begin with 'XPLOADER-BOT:~' or 'I.T-D3F4ULT:~'.",
     "value": "",
     "required": false
   },
   "BOT_ADMIN": {
     "description": "Enter your phone number to gain administrative access to the bot.",
-    "value": "254712345678",
+    "value": "255788144989",
     "required": true
   },
   "GITHUB_USERNAME": {
@@ -31,7 +31,7 @@
   },
    "BOT_PASSWORD": {
     "description": "This will be used as auth code for others who'll connect using the app web",
-    "value": "12345678",
+    "value": "55125512",
     "required": false
   },
    "PREMIUM_KEY": {
